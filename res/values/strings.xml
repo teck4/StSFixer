@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StSFixer</string>
+    <string name="description">Fix the crash of ShootingStar</string>
+    
+</resources>
